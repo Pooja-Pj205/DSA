@@ -83,7 +83,7 @@ Easy/
 
 ## 🤝 Contributions
 
-This is my personal learning repo — but if you find bugs, improvements, or want to share better solutions, feel free to open issues or PRs!
+This is my personal learning repo - but if you find bugs, improvements, or want to share better solutions, feel free to open issues or PRs!
 
 ---
 
