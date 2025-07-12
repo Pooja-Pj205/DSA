@@ -52,7 +52,7 @@ Easy/
 
 - Crack LeetCode 🔥
 - Build strong DSA problem-solving skills
-- Prepare for SDE/SRE interviews
+- Preparing for Data Scientist roles
 - Stay consistent with daily problem solving
 
 ---
